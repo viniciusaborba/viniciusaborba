@@ -1,6 +1,7 @@
-## Olá! Eu sou o Vinícius Borba!👋
+## Hi there! I'm Vinícius Borba!👋
 
 
+Full stack developer. I consider myself proactive and agile in solving adversities and learning new technologies!
 
 ## Tecnologias usadas no dia a dia
 <div style="display: inline-block"><br/>
