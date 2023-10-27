@@ -3,7 +3,7 @@
 
 Full stack developer. I consider myself proactive and agile in solving adversities and learning new technologies!
 
-## Tecnologias usadas no dia a dia
+## Technologies which I build cutting-edge web-sites and API's
 <div style="display: inline-block"><br/>
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"> 
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"> 
