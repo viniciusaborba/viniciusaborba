@@ -48,4 +48,4 @@ Full stack developer. I consider myself proactive and agile in solving adversiti
 
 ### Statistics
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusaborba&layout=compact&langs_count=7&theme=dark"/>](https://github.com/)
-[<img height="180px" style="margin-left: 20px" src="http://github-readme-streak-stats.herokuapp.com?user=viniciusaborba&theme=dark&border_radius=4.8&exclude_days=Sun%2CSat&card_width=350"/>](https://git.io/streak-stats)
+[<img height="180px" style="margin-left: 20px" src="https://github-readme-streak-stats.herokuapp.com?user=viniciusaborba&theme=dark&border_radius=4.8&exclude_days=Sun%2CSat&hide_current_streak=true"/>](https://git.io/streak-stats)
