@@ -12,7 +12,8 @@ Full stack developer. I consider myself proactive and agile in solving adversiti
 
 <div style="display: inline-block"><br/>
   <img height="30" width="40" align="center" src="https://skillicons.dev/icons?i=ts" alt="typescript">
-  <img height="30" width="40" align="center" src="https://skillicons.dev/icons?i=js" alt="javascript"> 
+  <img height="30" width="40" align="center" src="https://skillicons.dev/icons?i=js" alt="javascript">
+  <img height="30" width="40" align="center" src="https://skillicons.dev/icons?i=go" alt="javascript">
   <img height="30" width="40" align="center" src="https://skillicons.dev/icons?i=java" alt="java"> 
   <img height="30" width="40" align="center" src="https://skillicons.dev/icons?i=python" alt="python"> 
 </div>
